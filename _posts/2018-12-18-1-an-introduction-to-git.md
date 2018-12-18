@@ -1,7 +1,6 @@
 ---
-title: 1. An Introduction to Git
-date: 2018-12-18 16:15
-categories: All about Git
+layout: post
+title: "1. An Introduction to Git"
 ---
 
 ### Git is...
