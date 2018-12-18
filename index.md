@@ -1,6 +1,5 @@
 ---
-layout: home
-limit: 10
-show_excerpts: true
-entries_layout: list
+layout: default
 ---
+
+Text can be **bold**, _italic_, or ~~strikethrough~~.
