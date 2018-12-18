@@ -1,6 +1,11 @@
-# 1. An Introduction to Git
+---
+title: 1. An Introduction to Git
+date: 2018-12-18 16:15 +0800
+categories: All about Git
+---
 
-Git: Version Control System(VCS), suggested by Linus Tovaldzs who is well-known for developing Linux OS.
+### Git is...
+ - Version Control System(VCS), suggested by Linus Tovaldzs who is well-known for developing Linux OS.
 
 ### The Purpose of Git
 - Fast
