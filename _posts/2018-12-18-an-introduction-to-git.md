@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "1. An Introduction to Git"
+title: 1. An Introduction to Git
 ---
 
 ### Git is...
