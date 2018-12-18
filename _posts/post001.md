@@ -1,6 +1,6 @@
 ---
 title: 1. An Introduction to Git
-date: 2018-12-18 16:15 +0800
+date: 2018-12-18 16:15
 categories: All about Git
 ---
 
