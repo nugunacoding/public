@@ -6,8 +6,7 @@ title: 1. GitHub 가입 및 Repository 생성하기
 ## Join GitHub
 
 1. Open a web browser and go to https://github.com
-2. Fill the textboxes with your information.
-   (Skip this step if you already have GitHub account)
+2. Fill the textboxes with your information.(Skip this step if you already have GitHub account)
 
 ![Join GitHub](../images/join_github_1.png)
 
