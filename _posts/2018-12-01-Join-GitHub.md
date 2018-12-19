@@ -32,4 +32,4 @@ title: GitHub 가입 및 Repository 생성하기
 Now, you've done creating your repository.
 README.md will be used to explain your project or whatever.
 
-![Structure of Repository](../images/structure_of_repo.png){: width="50 height="50"}
+![Structure of Repository](../images/structure_of_repo.png){: width="50" height="50"}
