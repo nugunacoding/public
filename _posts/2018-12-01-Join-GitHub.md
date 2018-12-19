@@ -9,7 +9,7 @@ title: GitHub 가입 및 Repository 생성하기
 2. Fill the textboxes with your information.(Skip this step if you already have GitHub account)
 
 ![Join GitHub](../images/join_github_1.png)
-{: width="50px" height="50px"}
+{: width="300px"}
 
 3. Select a plan on Step 2.
 4. You don't need to complete Step 3, just skip to the next.
@@ -34,4 +34,4 @@ Now, you've done creating your repository.
 README.md will be used to explain your project or whatever.
 
 ![Structure of Repository](../images/structure_of_repo.png)
-{: width="50px" height="50px"}
+{: width="300px"}
