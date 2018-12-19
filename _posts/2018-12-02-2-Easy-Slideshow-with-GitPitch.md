@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2. Git Pitch를 통해 md파일을 슬라이드쇼로 보기
+title: Git Pitch를 통해 md파일을 슬라이드쇼로 보기
 ---
 
 ## Create PITCHME.md
