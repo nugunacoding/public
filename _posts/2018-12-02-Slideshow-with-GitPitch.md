@@ -26,6 +26,6 @@ You can read the file README.md on the GitHub Page, but it will be very useful w
 
 Just type the address below on a web browser without any other process.
 https://gitpitch/*YourName*/*Repository*/*Branch*
-(Branch name can be omitted if it is master.
+(Branch name can be omitted if it is master.)
 
 **https://gitpitch.com/docs**
