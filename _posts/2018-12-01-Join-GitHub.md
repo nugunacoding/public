@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 1. GitHub 가입 및 Repository 생성하기
+title: GitHub 가입 및 Repository 생성하기
 ---
 
 ## Join GitHub
