@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2. The Second Post
+title: The Second Post
 ---
 
 ### Git is...
