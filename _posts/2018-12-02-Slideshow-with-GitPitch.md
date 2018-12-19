@@ -9,12 +9,12 @@ create a document as markdown style like README.md, but you should name this fil
 
 1. Click [Crate new file].
 
-![Create PITCHME.md](../images/create_pitchme_1.png)
+![Create PITCHME.md](../images/create_pitchme_1.png){: width="200px"}
 
 2. Fill PITCHME.md on the inputbox.
 3. Click [Commit new file]
 
-![Create PITCHME.md](../images/create_pitchme_2.png)
+![Create PITCHME.md](../images/create_pitchme_2.png){: width="400px"}
 
 ---
 
@@ -22,7 +22,7 @@ create a document as markdown style like README.md, but you should name this fil
 
 You can read the file README.md on the GitHub Page, but it will be very useful when you open it on Git Pitch, which mautomatically renders slide show based on the markdown syntax.
 
-![Open GitHub md file from GitPitch](../images/github_to_gitpitch.png)
+![Open GitHub md file from GitPitch](../images/github_to_gitpitch.png){: width="400px"}
 
 Just type the address below on a web browser without any other process.
 https://gitpitch/*YourName*/*Repository*/*Branch*
