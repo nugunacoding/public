@@ -1,5 +1,6 @@
 ---
 title: GitHub 가입하기
+categories: GitHub
 ---
 
 1. 웹브라우저를 열어 아래 주소로 접속합니다.
