@@ -1,5 +1,5 @@
 ---
-title: Blog 테마 설정하고 공개하기
+title:  테마 설정하고 공개하기
 ---
 
 * https://github.com/topics/jekyll-theme에 접속하여 마음에 드는 테마를 선택합니다.
