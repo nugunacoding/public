@@ -1,6 +1,19 @@
 ---
-title: 3. 공동 작업 환경 만들기
+title: 공동 작업 환경 만들기
 ---
+
+GitHub에 작업을 관리할 수 있는 저장소를 만들 수 있으며 이를 Repository라고 부릅니다.
+Repository는 다른 사람과 공동으로 작업할 수 있도록 설정 가능합니다.
+
+* [New repository]를 클릭합니다.
+
+*그림*
+
+
+* Repository명을 입력하고 README.md 부분의 체크박스를 체크합니다.
+
+*그림*
+
 
 * Settings에서 Collaborators를 선택합니다.
 
