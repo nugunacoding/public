@@ -1,6 +1,9 @@
 ---
-title: 4. Git Pitch 슬라이드 기능 활용하기
+title: Git Pitch 슬라이드 기능 활용하기
 ---
+
+GitHub에서는 HTML, Markdown 형식 등의 문서를 지원합니다.
+Git Pitch는 이렇게 작성된 Markdown 문서를 슬라이드로 렌더링해주는 프레젠테이션 도구로써, 별도의 절차없이 Git에 저장딘 문서를 불러와 슬라이드쇼로 볼 수 있습니다.
 
 * Repository에 PITCHME.md 파일을 생성하고 아래 예시를 입력합니다.
 
@@ -23,6 +26,9 @@ title: 4. Git Pitch 슬라이드 기능 활용하기
   - https://gitpitch.com/*사용자명*/*Repository명*/*Branch명*
     (Branch명이 master이면 생략 가능)
   - 예: https://gitpitch.com/ssafy2018/public
+
+* GitHub에서 지원하는 기본적인 마크다운 양식을 사용할 수 있으며, Git Pitch의 테마와 스타일을 사용할 수도 있습니다.
+
 
 ![Open GitHub md file from GitPitch](../images/github_to_gitpitch.png){: width="400px"}
 
