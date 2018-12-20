@@ -1,5 +1,4 @@
 ---
-layout: home
 title: GitHub 가입하기
 ---
 
