@@ -1,6 +1,5 @@
 ---
 title: GitHub 가입하기
-categories: GitHub
 ---
 
 1. 웹브라우저를 열어 아래 주소로 접속합니다.
@@ -21,4 +20,4 @@ categories: GitHub
 5. 가입 시 작성한 메일 주소로 발송한 인증 메일을 확인합니다.
 
 
-이제 GitHub를 사용할 준비가 되었습니다!
+*이제 GitHub를 사용할 준비가 되었습니다!*
