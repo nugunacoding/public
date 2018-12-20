@@ -7,7 +7,7 @@ title: GitHub 가입하기
 
 2. 가입 항목을 작성하고 [Sign up for GitHub]을 클릭합니다.
 
-![Join GitHub](../images/join_github_1.png){: width="600px"}
+   - ![Join GitHub](../images/join_github_1.png){: width="600px"}
 
 3. 1단계 확인을 거친 후 2단계 Free Plan을 선택합니다.
 
