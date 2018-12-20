@@ -1,5 +1,5 @@
 ---
-title: 공동 작업 환경 만들기
+title: 3. 공동 작업 환경 만들기
 ---
 
 * Settings에서 Collaborators를 선택합니다.
