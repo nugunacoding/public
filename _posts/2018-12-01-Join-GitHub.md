@@ -1,35 +1,21 @@
 ---
 layout: home
-title: GitHub 가입 및 Repository 생성하기
+title: GitHub 가입하기
 ---
 
-## Join GitHub
+1. 웹브라우저를 열어 아래 주소로 접속합니다.
+   - https://github.com
 
-1. Open a web browser and go to https://github.com
-2. Fill the textboxes with your information.(Skip this step if you already have GitHub account)
+2. 가입 항목을 작성하고 [Sign up for GitHub]을 클릭합니다.
 
 ![Join GitHub](../images/join_github_1.png){: width="400px"}
 
-3. Select a plan on Step 2.
-4. You don't need to complete Step 3, just skip to the next.
+3. 1단계 확인을 거친 후 2단계 Free Plan을 선택합니다.
 
 ![Join GitHub](../images/join_github_2.png){: width="400px"}
 
-5. Open your mailbox and verify your email address.
+4. 3단계는 꼭 거치지 않아도 문제 없으므로 [skip this step]을 클릭합니다.
 
 ![Join GitHub](../images/join_github_3.png){: width="400px"}
 
----
-
-## Create Repository
-
-1. Click [New repository] and set the name of your repository.
-2. Check the box for initializing with a README.md.
-3. Click [Create Repository] to proceed.
-   
-![Create Repository](../images/create_repo.png){: width="400px"}
-
-Now, you've done creating your repository.
-README.md will be used to explain your project or whatever.
-
-![Structure of Repository](../images/structure_of_repo.png){: width="400px"}
+5. 가입 시 작성한 메일 주소로 발송한 인증 메일을 확인합니다.
