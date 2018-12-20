@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: home
 title: GitHub 가입 및 Repository 생성하기
 ---
 
