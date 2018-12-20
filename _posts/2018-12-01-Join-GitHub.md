@@ -1,9 +1,10 @@
 ---
-title: 1. GitHub 가입하기
+title: GitHub 가입하기
 ---
 
 * 웹브라우저를 열어 아래 주소로 접속합니다.
    - https://github.com
+
 
 * 가입 항목을 작성하고 [Sign up for GitHub]을 클릭합니다.
 
