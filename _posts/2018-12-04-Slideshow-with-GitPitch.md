@@ -20,7 +20,8 @@ title: Git Pitch 슬라이드 기능 활용하기
 
 
 * 웹 브라우저 주소창에 아래와 같이 입력하면 해당 문서를 슬라이드로 렌더링한 화면을 볼 수 있습니다.
-  - https://gitpitch.com/*사용자명*/*Repository명*/*Branch명* (Branch명이 master이면 생략 가능)
+  - https://gitpitch.com/*사용자명*/*Repository명*/*Branch명*
+    (Branch명이 master이면 생략 가능)
   - 예: https://gitpitch.com/ssafy2018/public
 
 ![Open GitHub md file from GitPitch](../images/github_to_gitpitch.png){: width="400px"}
