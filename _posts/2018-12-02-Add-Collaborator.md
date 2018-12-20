@@ -7,30 +7,36 @@ Repository는 다른 사람과 공동으로 작업할 수 있도록 설정 가�
 
 * [New repository]를 클릭합니다.
 
-*그림*
+  ![Create Repository](../images/02-01_New-Repository.png){: width="600px"}
 
 
 * Repository명을 입력하고 README.md 부분의 체크박스를 체크합니다.
 
-*그림*
+  ![Create Repository](../images/02-01_New-Repository.png){: width="600px"}
 
 
 * Settings에서 Collaborators를 선택합니다.
-
-*그림*
-
-
 * 함께 작업하기 원하는 GitHub 사용자명을 입력하고 [Add collaborator]를 클릭합니다.
 
-*그림*
+  ![Create Repository](../images/02-03_Add-Collaborator.png){: width="600px"}
 
 
-* 해당 사용자에게 요청 메일이 발송되고, 메일을 통해 승인하면 이 Repository는 공동 작업이 가능한 상태가 됩니다.
+* 상대방에게 요청 메일이 발송되고, 승인 대기 상태가 됩니다.
 
-*그림*
+  ![Create Repository](../images/02-04_Waiting-for-Accept.png){: width="600px"}
 
 
-* 팀원을 모두 공동 작업자로 추가합니다.
+* 해당 사용자는 Repository 요청 메일을 열어 링크를 클릭합니다.
+
+  ![Create Repository](../images/02-05_Read-Email.png){: width="600px"}
+  
+  
+* GitHub에 로그인하여 요청을 수락하면, 해당 Repository에 작업 권한을 얻게 됩니다.
+  
+  ![Create Repository](../images/02-06_Accept-Invitation.png){: width="600px"}
+  
+
+* Repository 생성자는 동일한 방법으로 팀원을 모두 공동 작업자로 추가하도록 합시다.
 
 
 *이제 하나의 Repository를 공동으로 작업할 수 있게 되었습니다!*
