@@ -1,5 +1,5 @@
 ---
-title: Git Pitch 슬라이드 기능 활용하기
+title: 4. Git Pitch 슬라이드 기능 활용하기
 ---
 
 * Repository에 PITCHME.md 파일을 생성하고 아래 예시를 입력합니다.
